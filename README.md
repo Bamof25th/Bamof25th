@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamof25th&label=Profile%20views&color=0e75b6&style=flat" alt="bamof25th" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bamof25th" alt="bamof25th" /></a> </p>
 
 - 🔭 I’m currently working on **Dall-e clone**
 
@@ -13,15 +12,11 @@
 
 - 🤝 I’m looking for help with **nextJS**
 
-- 👨‍💻 All of my projects are available at [none](none)
-
-- 📝 I regularly write articles on [none](none)
-
 - 💬 Ask me about **JavaScript.**
 
 - 📫 How to reach me **bagheab1312@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/154SuZMBeHSBfwJRryq4Q6SQUGKrgmENl/view?usp=sharing](https://drive.google.com/file/d/154SuZMBeHSBfwJRryq4Q6SQUGKrgmENl/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
