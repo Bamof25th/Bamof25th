@@ -1,25 +1,25 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm... from...<br><br>- 🔭 I’m working as TA in Coding-Ninjas.<br>- 📚 I'm currently learning TS and NEXTJS.<br>- ⚡ In my free time, I play Football.</p>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
 
-<img src="https://raw.githubusercontent.com/bamof25th/bamof25th/output/snake.svg" alt="Snake animation" />
+###
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"></h1>
+<p align="left">I'm ANIKET BAGHEL from DGG-C.G <br><br>- 🔭 I’m working as TA in Coding-Ninjas.<br>- 📚 I'm currently learning TS and NEXTJS.<br>- ⚡ In my free time, I play Football.</p>
 
 ###
+---
+[![](https://visitcount.itsvg.in/api?id=bamof25th&icon=6&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+####
 
 
 ## 🌐 Socials:
@@ -35,9 +35,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-[![](https://visitcount.itsvg.in/api?id=bamof25th&icon=6&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
