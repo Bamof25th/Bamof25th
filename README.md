@@ -57,3 +57,4 @@ I'm a Web Developer specializing in Full Stack development with technologies lik
   <img align="right" alt="Mail" width="22px" height="27px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+[![An image of @bamof25th's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bamof25th)](https://holopin.io/@bamof25th)
