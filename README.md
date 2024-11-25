@@ -1,60 +1,50 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  <img src="https://holopin.me/bamof25th" alt="@bamof25th's Holopin badges" href="https://holopin.io/@bamof25th" />
+  
+  # Aniket Baghel
+  <p>Full Stack Developer from DGG-C.G</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-baghel-344a93173/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Aniket45661502)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baghelab1312@gmail.com)
 </div>
 
-###
+## 🧑🏻‍💻 About Me
 
-<h2>🧑🏻‍💻 About Me</h2>
+I'm a Full Stack Developer specializing in modern web technologies. With expertise in both frontend and backend development, I create scalable and efficient web applications using cutting-edge tools and frameworks.
 
-###
+- 🔭 Currently working as a Freelance Developer at Trippyway
+- 📚 Learning DevOps to enhance deployment and infrastructure skills
+- ⚡ Football enthusiast in my free time
 
+## 🛠️ Tech Stack
 
-###
-<p>I'm ANIKET BAGHEL from DGG-C.G <br><br> </p>
-<p>
-I'm a Web Developer specializing in Full Stack development with technologies like <strong>React, Nextjs, Tailwind, Node.js, Postgres, Prisma, Docker, MongoDB and Express</strong>, as well as <strong>Typescript and Testing</strong>.
-  </p>
-<p align="left">- 🔭 I’m working as freelance Developer at trippyway.<br>- 📚 I'm currently learning devops.<br>- ⚡ In my free time, I play Football.</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-####
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-<h2>Skills</h2>
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,docker,nodejs,express,scss,prisma,postgresql,mongodb" height="42"/>
-</p>
+## 📊 GitHub Stats
 
-<h2>GitHub stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamof25th&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bamof25th&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
-
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamof25th&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-		</td>
-		<td>
-			<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bamof25th&theme=tokyonight&hide_border=true" />
-		</td>
-	</tr>
-</table>
-
-
-
-<br />
-<br />
-<br />
-
-
-
-
-<a href="https://www.linkedin.com/in/aniket-baghel-344a93173/">
-  <img align="right" alt="Instagram" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://x.com/Aniket45661502">
-  <img align="right" alt="Discord" width="22px" src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="mailto:baghelab1312@gmail.com">
-  <img align="right" alt="Mail" width="22px" height="27px" src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-[![An image of @bamof25th's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bamof25th)](https://holopin.io/@bamof25th)
+---
