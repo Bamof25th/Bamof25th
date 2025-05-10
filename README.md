@@ -35,7 +35,9 @@ I'm a Full Stack Developer specializing in modern web technologies. With experti
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
+![MySQL]((https://img.shields.io/badge/-MySql-47A248?style=flat&logo=MySql&logoColor=white))
+![SpringBoot]((https://img.shields.io/badge/-SpringBoot-47A248?style=flat&logo=SpringBoot&logoColor=white))
+![Swagger]((https://img.shields.io/badge/-Swagger-47A248?style=flat&logo=Swagger&logoColor=white))
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
