@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://holopin.me/bamof25th" alt="@bamof25th's Holopin badges" href="https://holopin.io/@bamof25th" />
   
   # Aniket Baghel
   <p>Full Stack Developer from DGG-C.G</p>
@@ -12,8 +11,8 @@
 ## 🧑🏻‍💻 About Me
 
 I'm a Full Stack Developer specializing in modern web technologies. With expertise in both frontend and backend development, I create scalable and efficient web applications using cutting-edge tools and frameworks.
-
-- 🔭 Currently working as a Freelance Developer at Trippyway
+- 💖 Currently working as a Associate Java Developer at Sapiens
+- 🔭 Worked as a Freelance Developer at Trippyway
 - 📚 Learning DevOps to enhance deployment and infrastructure skills
 - ⚡ Football enthusiast in my free time
 
@@ -48,8 +47,10 @@ I'm a Full Stack Developer specializing in modern web technologies. With experti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamof25th&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bamof25th&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
----
+## 🧑‍💻 Hacktober Fest
+
+<div align="center">
+  <img src="https://holopin.me/bamof25th" alt="@bamof25th's Holopin badges" href="https://holopin.io/@bamof25th" />
+</div>
